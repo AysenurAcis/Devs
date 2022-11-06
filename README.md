@@ -14,3 +14,7 @@ Programlama dillerini(C#,Java,Python) ekleyebilecek, silebilecek, güncelleyebil
   </a>
 </div>
 <img src="assets/images/0001.png">
+
+Req 2:
+Sisteme programlama dillerine ait alt teknolojiler eklenebilmeli, silinebilmeli. güncellenebilmeli, listelenebilmelidir
+<img src="assets/images/002.png">
